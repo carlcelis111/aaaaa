@@ -9,3 +9,7 @@ for numero in range(1, 21):
         print('impares')
         impares += 1
 print('Pares:', pares, 'Impares:', impares)
+
+a= input("escribe tu nombre")
+
+print("Hola" a)
