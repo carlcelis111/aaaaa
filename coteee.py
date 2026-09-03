@@ -8,4 +8,4 @@ for numero in range(1, 21):
     else:
         print('impares')
         impares += 1
-print('Pares:', pares, 'Impares:', impares)
+print('Pares:', pares, 'Impares:', impar)
